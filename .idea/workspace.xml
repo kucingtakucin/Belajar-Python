@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c7ff8f3-475c-42ab-974a-f667694d1c81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloAdamPython" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="pYXFINkk" />
+  </component>
+  <component name="ProjectId" id="1UpmGIMR5iAZcebb4KlgcEY9bF0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.__init__ (1)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloAdamPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloadam/02Aritmetika" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloadam/02Aritmetika/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloAdamPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloadam/01HelloWorld" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloadam/01HelloWorld/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c7ff8f3-475c-42ab-974a-f667694d1c81" name="Default Changelist" comment="" />
+      <created>1576061814254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576061814254</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Sedikit perbaikan pada Pycharm IDE">
+      <created>1577430835842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577430835842</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Materi baru teman-teman">
+      <created>1577434962750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577434962750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sedikit perbaikan pada Pycharm IDE" />
+    <MESSAGE value="Materi baru teman-teman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Materi baru teman-teman" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576061901607">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="366" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741@0.27.1366.741" timestamp="1576061901607" />
+    <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2" timestamp="1577434962135">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577434962135" />
+    <state x="1827" y="148" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577429768841">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1827" y="148" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577429768841" />
+    <state x="509" y="291" width="337" height="219" key="Github.ShareDialog" timestamp="1576062464333">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="509" y="291" width="337" height="219" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1576062464333" />
+    <state x="402" y="27" width="551" height="741" key="Github.UntrackedFilesDialog" timestamp="1576062485886">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="402" y="27" width="551" height="741" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1576062485886" />
+    <state width="433" height="565" key="GridCell.Tab.0.bottom" timestamp="1577459923993">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="433" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
+    <state width="433" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577435153415" />
+    <state width="433" height="565" key="GridCell.Tab.0.center" timestamp="1577459923993">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="433" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
+    <state width="433" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577435153415" />
+    <state width="433" height="565" key="GridCell.Tab.0.left" timestamp="1577459923992">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="433" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923992" />
+    <state width="433" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577435153415" />
+    <state width="433" height="565" key="GridCell.Tab.0.right" timestamp="1577459923993">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="433" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
+    <state width="433" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577435153415" />
+    <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog" timestamp="1576062554583">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog/0.27.1366.741@0.27.1366.741" timestamp="1576062554583" />
+    <state x="1587" y="0" width="1022" height="737" key="SettingsEditor" timestamp="1577432364532">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1587" y="0" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577432364532" />
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1577434972558">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577434972558" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577498691990">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577432687024" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1577498691990" />
+  </component>
+</project>
