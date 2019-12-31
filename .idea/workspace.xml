@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7ff8f3-475c-42ab-974a-f667694d1c81" name="Default Changelist" comment="Menambahkan materi More on list, stack &amp; queues, dan tuple">
-      <change afterPath="$PROJECT_DIR$/helloadam/18Set/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloadam/19Dictionary/__init__.py" afterDir="false" />
+    <list default="true" id="6c7ff8f3-475c-42ab-974a-f667694d1c81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/helloadam/HelloAdam20TeknikLooping/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloadam/HelloAdam21Import/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloadam/HelloAdam21Import/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloadam/HelloAdam22Module/Matematika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloadam/HelloAdam22Module/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/01HelloWorld/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam01HelloWorld/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/02Aritmetika/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam02Aritmetika/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/03Strings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam03Strings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/04Lists/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam04Lists/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/05IfElifElse/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam05IfElifElse/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/06ForLoop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam06ForLoop/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/07ForElseRangeBreak/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam07ForElseRangeBreak/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/08Continue&amp;Pass/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam08Continue&amp;Pass/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/09WhileLoop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam09WhileLoop/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/10Function/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam10Function/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/11Function&amp;Arguments/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam11Function&amp;Arguments/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/12ReturnValue/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam12ReturnValue/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/13LambdaFunction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam13LambdaFunction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/14Scope/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam14Scope/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/15MoreList/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam15MoreList/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/16Stack&amp;Queues/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam16Stack&amp;Queues/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/17Tuple/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam17Tuple/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/18Set/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam18Set/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloadam/19Dictionary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloadam/HelloAdam19Dictionary/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +77,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager" selected="Python.__init__ (3)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloAdamPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloadam/20TeknikLooping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloadam/20TeknikLooping/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloAdamPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloadam/15MoreList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloadam/HelloAdam21Import" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloadam/15MoreList/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloadam/HelloAdam21Import/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,32 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloadam/16Stack&amp;Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloadam/HelloAdam22Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloadam/16Stack&amp;Queues/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="__init__ (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HelloAdamPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloadam/17Tuple" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloadam/17Tuple/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloadam/HelloAdam22Module/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.__init__ (5)" />
-        <item itemvalue="Python.__init__ (4)" />
         <item itemvalue="Python.__init__ (3)" />
         <item itemvalue="Python.__init__ (2)" />
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.__init__ (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577755176373</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Menambahkan materi Set dan Dictionary">
+      <created>1577777909514</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577777909514</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -292,7 +321,8 @@
     <MESSAGE value="Menambah materi Lambda dan Scope" />
     <MESSAGE value="Memperbarui workspace.xml" />
     <MESSAGE value="Menambahkan materi More on list, stack &amp; queues, dan tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi More on list, stack &amp; queues, dan tuple" />
+    <MESSAGE value="Menambahkan materi Set dan Dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi Set dan Dictionary" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1732" y="102" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577753509823">
@@ -320,37 +350,37 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="402" y="27" width="551" height="741" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1576062485886" />
-    <state width="404" height="565" key="GridCell.Tab.0.bottom" timestamp="1577777788132">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="403" height="538" key="GridCell.Tab.0.bottom" timestamp="1577800272807">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
-    <state width="404" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577777788132" />
+    <state width="404" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="404" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577723910756" />
+    <state width="403" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577800272807" />
     <state width="509" height="697" key="GridCell.Tab.0.bottom/0.27.2966.873@0.27.2966.873" timestamp="1577524538132" />
-    <state width="404" height="565" key="GridCell.Tab.0.center" timestamp="1577777788132">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="403" height="538" key="GridCell.Tab.0.center" timestamp="1577800272806">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
-    <state width="404" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577777788132" />
+    <state width="404" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="404" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577723910756" />
+    <state width="403" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577800272806" />
     <state width="509" height="697" key="GridCell.Tab.0.center/0.27.2966.873@0.27.2966.873" timestamp="1577524538131" />
-    <state width="404" height="565" key="GridCell.Tab.0.left" timestamp="1577777788132">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="403" height="538" key="GridCell.Tab.0.left" timestamp="1577800272805">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923992" />
-    <state width="404" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577777788132" />
+    <state width="404" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="404" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577723910755" />
+    <state width="403" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577800272805" />
     <state width="509" height="697" key="GridCell.Tab.0.left/0.27.2966.873@0.27.2966.873" timestamp="1577524538130" />
-    <state width="404" height="565" key="GridCell.Tab.0.right" timestamp="1577777788132">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="403" height="538" key="GridCell.Tab.0.right" timestamp="1577800272807">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
-    <state width="404" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577777788132" />
+    <state width="404" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="404" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577723910756" />
+    <state width="403" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577800272807" />
     <state width="509" height="697" key="GridCell.Tab.0.right/0.27.2966.873@0.27.2966.873" timestamp="1577524538131" />
     <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog" timestamp="1576062554583">
       <screen x="0" y="27" width="1366" height="741" />
@@ -362,25 +392,26 @@
     <state x="466" y="27" width="900" height="741" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577682698928" />
     <state x="1587" y="0" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577755988274" />
     <state x="1366" y="27" width="1600" height="838" key="SettingsEditor/0.27.2966.873@0.27.2966.873" timestamp="1577524511564" />
-    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1577755218736">
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1577778174086">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577755218736" />
-    <state x="1705" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1577756111475">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577778174086" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577795595331">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577753614310" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577756111475" />
     <state x="1763" y="240" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1577524772778" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1577722249493" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1577795595331" />
     <state x="449" y="312" width="457" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577633500040">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="449" y="312" width="457" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1577633500040" />
-    <state x="370" y="56" width="946" height="712" key="dock-window-1" timestamp="1577756118923">
+    <state x="0" y="27" width="637" height="685" key="dock-window-1" timestamp="1577796175085">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="370" y="56" width="946" height="712" key="dock-window-1/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577756118923" />
+    <state x="0" y="27" width="637" height="685" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1577796175085" />
     <state x="2208" y="147" width="672" height="597" key="search.everywhere.popup" timestamp="1577757425150">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
