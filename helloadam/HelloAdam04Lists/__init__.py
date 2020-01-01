@@ -1,4 +1,4 @@
-#  Copyright (c) 2019. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#  Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #  Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
 #  Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
 #  Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
@@ -8,7 +8,13 @@ from sys import copyright
 print("====== LIST =====\n")    # Semacam array di Python
 
 Data = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+LoopingList = []
+for i in range(0, 10):
+    LoopingList.append(i)
+    pass
+
 print("Data =", Data)
+print("Looping List =", LoopingList)
 # Mengakses list
 Subdata1 = Data[2]
 print("Nilai pada indeks ke 2 adalah", Subdata1)
@@ -60,6 +66,10 @@ print("Menambah satu member pada Data2 :", Data2)
 # Function yang bisa kita gunakan kepada list
 panjangList = len(Data2)
 print("Panjang list Data2 adalah", panjangList)
+blablabla = callable(Data2)
+print(blablabla)
 
+
+print('\n')
 print(copyright)
 # by Mbah Putih Mulyosugito

@@ -1,0 +1,5 @@
+Adam Arthur Faizal
+Mbah Putih Mulyosugito
+Ini adalah baris ketiga
+Ini adalah baris keempat
+Ini adalah baris yang dibuat dengan mode Appending

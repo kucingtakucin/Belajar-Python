@@ -1,4 +1,4 @@
-#  Copyright (c) 2019. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#  Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #  Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
 #  Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
 #  Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
@@ -6,9 +6,9 @@
 from sys import copyright
 
 print("====== IF ELIF ELSE ======\n")
-nilai = 90
+nilai = int(input("Masukkan nilai : "))
 
-if nilai == 100:
+if nilai is 100:
     print("Nilai kamu adalah", nilai)
 
 if nilai is not 100:
@@ -49,5 +49,6 @@ if karakter in nama:
 else:
     print("Tidak ada huruf", karakter, "di", "nama", nama)
 
+print('\n')
 print(copyright)
 # by Mbah Putih Mulyosugito
