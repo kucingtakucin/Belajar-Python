@@ -3,7 +3,17 @@
 #  Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
 #  Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
 #  Vestibulum commodo. Ut rhoncus gravida arcu.
-from helloadam.HelloAdam22Module import Matematika
+from sys import copyright
+from helloadam.HelloAdam23Packages import Sains
+import helloadam.HelloAdam23Packages.Main2
 
-Matematika.penjumlahan(5, 6)
-Matematika.pengurangan(6, 5)
+print("====== PACKAGES ======")
+
+Sains.penjumlahan(4, 5)
+Sains.pengurangan(5, 4)
+Sains.kecepatan(5, 10)
+Sains.waktutempuh(5, 10)
+
+print('\n')
+print(copyright)
+# by Mbah Putih Mulyosugito

@@ -3,7 +3,15 @@
 #  Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
 #  Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
 #  Vestibulum commodo. Ut rhoncus gravida arcu.
-from helloadam.HelloAdam22Module import Matematika
 
-Matematika.penjumlahan(5, 6)
-Matematika.pengurangan(6, 5)
+
+def kecepatan(jarak, waktu):
+    print("--- Menghitung Kecepatan ---")
+    hasil = jarak / waktu
+    print(jarak, "/", waktu, "=", hasil),
+
+
+def waktutempuh(kec, jarak):
+    print("--- Menghitung Waktu Tempuh ---")
+    hasil = jarak / kec
+    print(jarak, "/", kec, "=", hasil)
