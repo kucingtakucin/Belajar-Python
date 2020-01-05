@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7ff8f3-475c-42ab-974a-f667694d1c81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mandiri/Mandiri10FungsiDalamFungsi/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mandiri/Mandiri11NilaiBalikFungsi/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mandiri/Mandiri12TekaTeki/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/Mandiri13ArgumentFungsi/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/Mandiri14KeywordNonKeyword/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/Mandiri15VariabelLokal/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam01HelloWorld/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam01HelloWorld/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <recent name="$PROJECT_DIR$/helloadam/HelloAdam23Packages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Main (1)">
+  <component name="RunManager" selected="Python.Main">
     <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloAdamPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloAdamPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mandiri/Mandiri08TebakAngka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mandiri/Mandiri13ArgumentFungsi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mandiri/Mandiri08TebakAngka/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mandiri/Mandiri13ArgumentFungsi/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mandiri/Mandiri07GanjilGenap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mandiri/Mandiri14KeywordNonKeyword" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mandiri/Mandiri07GanjilGenap/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mandiri/Mandiri14KeywordNonKeyword/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.Main (2)" />
         <item itemvalue="Python.Main (1)" />
         <item itemvalue="Python.Main (5)" />
         <item itemvalue="Python.Main (4)" />
-        <item itemvalue="Python.Main (3)" />
-        <item itemvalue="Python.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578221818783</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Menambahkan beberapa file mandiri">
+      <created>1578233182777</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578233182777</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Memperbarui workspace.xml">
+      <created>1578233223015</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1578233223015</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -336,14 +349,14 @@
     <MESSAGE value="Pembaruan pada Pycharm IDE" />
     <MESSAGE value="Menambah materi baru" />
     <MESSAGE value="Menambah materi Lambda dan Scope" />
-    <MESSAGE value="Memperbarui workspace.xml" />
     <MESSAGE value="Menambahkan materi More on list, stack &amp; queues, dan tuple" />
     <MESSAGE value="Menambahkan materi Set dan Dictionary" />
     <MESSAGE value="Mengubah keseluruhan nama file serta menambah materi looping, import, dan modul" />
     <MESSAGE value="Menambahkan banyak materi baru tentang class" />
     <MESSAGE value="Menyelesaikan materi dan memodifikasi beberapa file" />
     <MESSAGE value="Menambahkan beberapa file mandiri" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan beberapa file mandiri" />
+    <MESSAGE value="Memperbarui workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Memperbarui workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1732" y="102" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577753509823">
@@ -351,12 +364,12 @@
     </state>
     <state x="1732" y="102" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577753509823" />
     <state x="366" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741@0.27.1366.741" timestamp="1576061901607" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2" timestamp="1578233207010">
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2" timestamp="1578233222797">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577777908359" />
     <state x="629" y="27" width="737" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577537831996" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578233207010" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578233222797" />
     <state x="1366" y="27" width="1600" height="873" key="CommitChangelistDialog2/0.27.2966.873@0.27.2966.873" timestamp="1577515375368" />
     <state x="519" y="121" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577875514397">
       <screen x="0" y="27" width="1366" height="741" />
@@ -372,40 +385,40 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="402" y="27" width="551" height="741" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1576062485886" />
-    <state width="465" height="538" key="GridCell.Tab.0.bottom" timestamp="1578233063061">
+    <state width="465" height="538" key="GridCell.Tab.0.bottom" timestamp="1578240067384">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578233063061" />
+    <state width="465" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578240067384" />
     <state width="516" height="565" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1578022764339" />
     <state width="509" height="697" key="GridCell.Tab.0.bottom/0.27.2966.873@0.27.2966.873" timestamp="1577524538132" />
-    <state width="465" height="538" key="GridCell.Tab.0.center" timestamp="1578233063060">
+    <state width="465" height="538" key="GridCell.Tab.0.center" timestamp="1578240067383">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578233063060" />
+    <state width="465" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578240067383" />
     <state width="516" height="565" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1578022764338" />
     <state width="509" height="697" key="GridCell.Tab.0.center/0.27.2966.873@0.27.2966.873" timestamp="1577524538131" />
-    <state width="465" height="538" key="GridCell.Tab.0.left" timestamp="1578233063059">
+    <state width="465" height="538" key="GridCell.Tab.0.left" timestamp="1578240067383">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923992" />
     <state width="404" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578233063059" />
+    <state width="465" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578240067383" />
     <state width="516" height="565" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1578022764337" />
     <state width="509" height="697" key="GridCell.Tab.0.left/0.27.2966.873@0.27.2966.873" timestamp="1577524538130" />
-    <state width="465" height="538" key="GridCell.Tab.0.right" timestamp="1578233063060">
+    <state width="465" height="538" key="GridCell.Tab.0.right" timestamp="1578240067384">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578233063060" />
+    <state width="465" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578240067384" />
     <state width="516" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1578022764338" />
     <state width="509" height="697" key="GridCell.Tab.0.right/0.27.2966.873@0.27.2966.873" timestamp="1577524538131" />
     <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog" timestamp="1576062554583">
@@ -455,12 +468,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="427" y="41" width="501" height="720" key="refactoring.ChangeSignatureDialog/0.27.1366.741@0.27.1366.741" timestamp="1577805765566" />
-    <state x="842" y="169" width="672" height="576" key="search.everywhere.popup" timestamp="1578219521393">
+    <state x="842" y="169" width="672" height="576" key="search.everywhere.popup" timestamp="1578237405418">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="2208" y="147" width="672" height="597" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577757425150" />
     <state x="842" y="169" width="672" height="576" key="search.everywhere.popup/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577547243365" />
-    <state x="842" y="169" width="672" height="576" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1578219521392" />
+    <state x="842" y="169" width="672" height="576" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1578237405418" />
     <state x="1829" y="194" width="672" height="678" key="search.everywhere.popup/0.27.2966.873@0.27.2966.873" timestamp="1577514829378" />
   </component>
 </project>
