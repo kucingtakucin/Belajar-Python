@@ -1,14 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7ff8f3-475c-42ab-974a-f667694d1c81" name="Default Changelist" comment="Memperbarui materi di bagian mandiri">
-      <change afterPath="$PROJECT_DIR$/Mandiri/Mandiri16VariabelGlobal/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP01Pendahuluan/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP01Pendahuluan/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/Adam_Arthur_Faizal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/Adam_Arthur_Faizal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/MbahPutih.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/MbahPutih.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/Mbah_Putih_Mulyosugito.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/Mbah_Putih_Mulyosugito.xml" afterDir="false" />
+    <list default="true" id="6c7ff8f3-475c-42ab-974a-f667694d1c81" name="Default Changelist" comment="Menambahkan materi tentang OOP">
+      <change afterPath="$PROJECT_DIR$/OOP/OOP02ConstructorInit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP02ConstructorInit/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP03Instance&amp;ClassVariable/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP03Instance&amp;ClassVariable/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP04Methods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP04Methods/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP05LatihanOOPSederhana/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP05LatihanOOPSederhana/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP06LatihanOOPTurtle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP06LatihanOOPTurtle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP07PrivateVariable/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam01HelloWorld/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam01HelloWorld/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam02Aritmetika/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam02Aritmetika/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam03Strings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam03Strings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam04Lists/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam04Lists/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam05IfElifElse/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam05IfElifElse/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam06ForLoop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam06ForLoop/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam07ForElseRangeBreak/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam07ForElseRangeBreak/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam08Continue&amp;Pass/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam08Continue&amp;Pass/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam09WhileLoop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam09WhileLoop/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam10Function/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam10Function/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam11Function&amp;Arguments/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam11Function&amp;Arguments/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam12ReturnValue/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam12ReturnValue/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam13LambdaFunction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam13LambdaFunction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam14Scope/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam14Scope/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam15MoreList/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam15MoreList/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam16Stack&amp;Queues/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam16Stack&amp;Queues/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam17Tuple/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam17Tuple/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam18Set/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam18Set/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam19Dictionary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam19Dictionary/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam20TeknikLooping/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam20TeknikLooping/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam21Import/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam21Import/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam21Import/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam21Import/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam22Module/Matematika.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam22Module/Matematika.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam22Module/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam22Module/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Sains/Fisika.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Sains/Fisika.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Sains/Matematika.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Sains/Matematika.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Sains/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam23Packages/Sains/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam24__main__/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam24__main__/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam24__main__/Matematika.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam24__main__/Matematika.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam25Class/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam25Class/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam26MethodClass/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam26MethodClass/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam27__init__/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam27__init__/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam28PrivateAttribute/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam28PrivateAttribute/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam29ClassVariable/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam29ClassVariable/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam30ClassInheritance/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam30ClassInheritance/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam31InputOutput/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam31InputOutput/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam32Tkinter/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam32Tkinter/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam33Pip/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam33Pip/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam34Venv/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam34Venv/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam35Try&amp;Exception/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam35Try&amp;Exception/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri01LuasLingkaran/Lingkaran.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri01LuasLingkaran/Lingkaran.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri02Turtle/Turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri02Turtle/Turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri03MenghitungUmur/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri03MenghitungUmur/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri04ImplementasiRange/Range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri04ImplementasiRange/Range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri05FungsiFor/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri05FungsiFor/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri06PenggunaanIf/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri06PenggunaanIf/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri07GanjilGenap/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri07GanjilGenap/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri08TebakAngka/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri08TebakAngka/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri09ImplementasiBreakContinue/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri09ImplementasiBreakContinue/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri10FungsiDalamFungsi/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri10FungsiDalamFungsi/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri11NilaiBalikFungsi/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri11NilaiBalikFungsi/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri12TekaTeki/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri12TekaTeki/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri13ArgumentFungsi/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri13ArgumentFungsi/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri14KeywordNonKeyword/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri14KeywordNonKeyword/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri15VariabelLokal/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri15VariabelLokal/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/OOP01Pendahuluan/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OOP01Pendahuluan/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install-3.7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
@@ -374,7 +437,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -382,7 +445,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloAdamPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -390,12 +453,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mandiri/Mandiri12TekaTeki" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/OOP03Instance&amp;ClassVariable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mandiri/Mandiri12TekaTeki/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP03Instance&amp;ClassVariable/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -404,7 +467,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloAdamPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -412,12 +475,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mandiri/Mandiri13ArgumentFungsi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/OOP04Methods" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mandiri/Mandiri13ArgumentFungsi/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP04Methods/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -426,7 +489,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloAdamPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -434,12 +497,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mandiri/Mandiri16VariabelGlobal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/OOP05LatihanOOPSederhana" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mandiri/Mandiri16VariabelGlobal/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP05LatihanOOPSederhana/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -448,7 +511,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloAdamPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -456,12 +519,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mandiri/Mandiri14KeywordNonKeyword" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/OOP06LatihanOOPTurtle" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mandiri/Mandiri14KeywordNonKeyword/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP06LatihanOOPTurtle/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -478,12 +541,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/OOP01Pendahuluan" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/OOP07PrivateVariable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP01Pendahuluan/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP07PrivateVariable/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -495,10 +558,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.Main (3)" />
-        <item itemvalue="Python.Main" />
-        <item itemvalue="Python.Main (2)" />
-        <item itemvalue="Python.Main (1)" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -530,7 +593,10 @@
       <workItem from="1578920756718" duration="613000" />
       <workItem from="1578962843517" duration="275000" />
       <workItem from="1579828981125" duration="1893000" />
-      <workItem from="1579834679536" duration="1039000" />
+      <workItem from="1579834679536" duration="4024000" />
+      <workItem from="1579844493971" duration="2642000" />
+      <workItem from="1579852657022" duration="6359000" />
+      <workItem from="1580010968802" duration="2534000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan pada Pycharm IDE">
       <created>1577430835842</created>
@@ -658,7 +724,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578240792562</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Memperbarui copyright dan menambahkan materi tentang OOP">
+      <created>1579836603749</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1579836603749</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,6 +739,16 @@
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -696,7 +779,9 @@
     <MESSAGE value="Menambahkan beberapa file mandiri" />
     <MESSAGE value="Memperbarui workspace.xml" />
     <MESSAGE value="Memperbarui materi di bagian mandiri" />
-    <option name="LAST_COMMIT_MESSAGE" value="Memperbarui materi di bagian mandiri" />
+    <MESSAGE value="Memperbarui copyright dan menambahkan materi tentang OOP" />
+    <MESSAGE value="Menambahkan materi tentang OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan materi tentang OOP" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1732" y="102" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577753509823">
@@ -704,19 +789,23 @@
     </state>
     <state x="1732" y="102" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577753509823" />
     <state x="366" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741@0.27.1366.741" timestamp="1576061901607" />
-    <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579834479287">
+    <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579853928015">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579834479287" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2" timestamp="1578963129840">
+    <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579853928015" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2" timestamp="1580015264410">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="287" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578274204327" />
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577777908359" />
     <state x="629" y="27" width="737" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577537831996" />
     <state x="287" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1578963129840" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578240792204" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1580015264410" />
     <state x="1366" y="27" width="1600" height="873" key="CommitChangelistDialog2/0.27.2966.873@0.27.2966.873" timestamp="1577515375368" />
+    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog" timestamp="1579854731439">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1579854731439" />
     <state x="519" y="121" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577875514397">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -731,53 +820,61 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="402" y="27" width="551" height="741" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1576062485886" />
-    <state width="465" height="538" key="GridCell.Tab.0.bottom" timestamp="1579835730140">
+    <state width="465" height="538" key="GridCell.Tab.0.bottom" timestamp="1580013562814">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579835730140" />
+    <state width="465" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1580013562814" />
     <state width="516" height="565" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1578022764339" />
     <state width="509" height="697" key="GridCell.Tab.0.bottom/0.27.2966.873@0.27.2966.873" timestamp="1577524538132" />
-    <state width="465" height="538" key="GridCell.Tab.0.center" timestamp="1579835730140">
+    <state width="465" height="538" key="GridCell.Tab.0.center" timestamp="1580013562812">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579835730140" />
+    <state width="465" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1580013562812" />
     <state width="516" height="565" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1578022764338" />
     <state width="509" height="697" key="GridCell.Tab.0.center/0.27.2966.873@0.27.2966.873" timestamp="1577524538131" />
-    <state width="465" height="538" key="GridCell.Tab.0.left" timestamp="1579835730139">
+    <state width="465" height="538" key="GridCell.Tab.0.left" timestamp="1580013562809">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923992" />
     <state width="404" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579835730139" />
+    <state width="465" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1580013562809" />
     <state width="516" height="565" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1578022764337" />
     <state width="509" height="697" key="GridCell.Tab.0.left/0.27.2966.873@0.27.2966.873" timestamp="1577524538130" />
-    <state width="465" height="538" key="GridCell.Tab.0.right" timestamp="1579835730140">
+    <state width="465" height="538" key="GridCell.Tab.0.right" timestamp="1580013562814">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579835730140" />
+    <state width="465" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1580013562814" />
     <state width="516" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1578022764338" />
     <state width="509" height="697" key="GridCell.Tab.0.right/0.27.2966.873@0.27.2966.873" timestamp="1577524538131" />
     <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog" timestamp="1576062554583">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog/0.27.1366.741@0.27.1366.741" timestamp="1576062554583" />
-    <state x="221" y="27" width="900" height="737" key="SettingsEditor" timestamp="1579834469712">
+    <state x="442" y="37" width="471" height="727" key="RollbackChangesDialog" timestamp="1579854255347">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="442" y="37" width="471" height="727" key="RollbackChangesDialog/0.27.1366.741@0.27.1366.741" timestamp="1579854255347" />
+    <state x="221" y="27" width="900" height="741" key="SettingsEditor" timestamp="1579853819753">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="294" y="27" width="900" height="741" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578485076616" />
     <state x="1587" y="0" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577755988274" />
-    <state x="221" y="27" width="900" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1579834469712" />
+    <state x="221" y="27" width="900" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1579853819753" />
     <state x="1366" y="27" width="1600" height="838" key="SettingsEditor/0.27.2966.873@0.27.2966.873" timestamp="1577524511564" />
+    <state x="526" y="307" width="303" height="187" key="VCS.ChangelistChooser" timestamp="1579854367703">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="526" y="307" width="303" height="187" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1579854367703" />
     <state x="0" y="139" width="1366" height="543" key="Vcs.Push.Dialog.v2" timestamp="1578963136743">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -785,14 +882,22 @@
     <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577927305729" />
     <state x="0" y="139" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1578963136743" />
     <state x="0" y="139" width="1366" height="543" key="Vcs.Push.Dialog.v2/0.27.2732.741@0.27.2732.741" timestamp="1578537855740" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579834683654">
+    <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579854526579">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1579854526579" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579852741608">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578485264335" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577926902521" />
     <state x="1763" y="240" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1577524772778" />
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1578963109967" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579834683654" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579852741608" />
+    <state x="261" y="89" width="834" height="624" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579854272245">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="261" y="89" width="834" height="624" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1579854272245" />
     <state x="449" y="312" width="457" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577633500040">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -818,15 +923,20 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="427" y="41" width="501" height="720" key="refactoring.ChangeSignatureDialog/0.27.1366.741@0.27.1366.741" timestamp="1577805765566" />
-    <state x="464" y="134" width="672" height="576" key="search.everywhere.popup" timestamp="1579834476526">
+    <state x="464" y="134" width="672" height="576" key="search.everywhere.popup" timestamp="1579853913162">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="2208" y="147" width="672" height="597" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577757425150" />
     <state x="842" y="169" width="672" height="576" key="search.everywhere.popup/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577547243365" />
-    <state x="464" y="134" width="672" height="576" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579834476526" />
+    <state x="464" y="134" width="672" height="576" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579853913162" />
     <state x="1829" y="194" width="672" height="678" key="search.everywhere.popup/0.27.2966.873@0.27.2966.873" timestamp="1577514829378" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HelloAdamPython$main.coverage" NAME="main Coverage Results" MODIFIED="1579835193761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP01Pendahuluan" />
+    <SUITE FILE_PATH="coverage/HelloAdamPython$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1579849376073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP05LatihanOOPSederhana" />
+    <SUITE FILE_PATH="coverage/HelloAdamPython$main.coverage" NAME="main Coverage Results" MODIFIED="1580013550904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP07PrivateVariable" />
+    <SUITE FILE_PATH="coverage/HelloAdamPython$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1579855158151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP06LatihanOOPTurtle" />
+    <SUITE FILE_PATH="coverage/HelloAdamPython$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1579845755324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP04Methods" />
+    <SUITE FILE_PATH="coverage/HelloAdamPython$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1579837658203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP03Instance&amp;ClassVariable" />
+    <SUITE FILE_PATH="coverage/HelloAdamPython$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1579836984513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP02ConstructorInit" />
   </component>
 </project>

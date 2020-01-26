@@ -1,4 +1,5 @@
 #  Copyright (c) 2020. Adam Arthur Faizal
+from sys import copyright
 
 
 class Hero:
@@ -27,3 +28,5 @@ hero3.health = '500'
 print(hero3)
 print(hero3.__dict__)
 
+print('\n')
+print(copyright)
