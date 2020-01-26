@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7ff8f3-475c-42ab-974a-f667694d1c81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/OOP13Super/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP13Super/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP14OverrideMethod/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP14OverrideMethod/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP15LatihanInheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP15LatihanInheritance/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +70,8 @@
       <recent name="$PROJECT_DIR$/helloadam/HelloAdam23Packages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloAdamPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,12 +79,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/OOP09StaticMethod&amp;ClassMethod" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/OOP15LatihanInheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP09StaticMethod&amp;ClassMethod/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP15LatihanInheritance/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +222,8 @@
       <workItem from="1579834679536" duration="4024000" />
       <workItem from="1579844493971" duration="2642000" />
       <workItem from="1579852657022" duration="6359000" />
-      <workItem from="1580010968802" duration="16352000" />
+      <workItem from="1580010968802" duration="17616000" />
+      <workItem from="1580046320427" duration="2435000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan pada Pycharm IDE">
       <created>1577430835842</created>
@@ -373,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580035381457</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Menambahkan materi tentang OOP">
+      <created>1580042817130</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1580042817130</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,14 +441,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="246" width="525" height="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1579853928015" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2" timestamp="1580042815496">
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2" timestamp="1580049778353">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="287" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578274204327" />
     <state x="1653" y="0" width="781" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577777908359" />
     <state x="629" y="27" width="737" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577537831996" />
     <state x="287" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1578963129840" />
-    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1580042815496" />
+    <state x="287" y="27" width="781" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1580049778353" />
     <state x="1366" y="27" width="1600" height="873" key="CommitChangelistDialog2/0.27.2966.873@0.27.2966.873" timestamp="1577515375368" />
     <state x="100" y="127" width="1166" height="541" key="DiffContextDialog" timestamp="1579854731439">
       <screen x="0" y="27" width="1366" height="741" />
@@ -462,40 +468,40 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="402" y="27" width="551" height="741" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1576062485886" />
-    <state width="465" height="538" key="GridCell.Tab.0.bottom" timestamp="1580042168762">
+    <state width="465" height="538" key="GridCell.Tab.0.bottom" timestamp="1580049640193">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1580042168762" />
+    <state width="465" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1580049640193" />
     <state width="516" height="565" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1578022764339" />
     <state width="509" height="697" key="GridCell.Tab.0.bottom/0.27.2966.873@0.27.2966.873" timestamp="1577524538132" />
-    <state width="465" height="538" key="GridCell.Tab.0.center" timestamp="1580042168762">
+    <state width="465" height="538" key="GridCell.Tab.0.center" timestamp="1580049640192">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1580042168762" />
+    <state width="465" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1580049640192" />
     <state width="516" height="565" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1578022764338" />
     <state width="509" height="697" key="GridCell.Tab.0.center/0.27.2966.873@0.27.2966.873" timestamp="1577524538131" />
-    <state width="465" height="538" key="GridCell.Tab.0.left" timestamp="1580042168761">
+    <state width="465" height="538" key="GridCell.Tab.0.left" timestamp="1580049640191">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923992" />
     <state width="404" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1580042168761" />
+    <state width="465" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1580049640191" />
     <state width="516" height="565" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1578022764337" />
     <state width="509" height="697" key="GridCell.Tab.0.left/0.27.2966.873@0.27.2966.873" timestamp="1577524538130" />
-    <state width="465" height="538" key="GridCell.Tab.0.right" timestamp="1580042168762">
+    <state width="465" height="538" key="GridCell.Tab.0.right" timestamp="1580049640192">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="433" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577459923993" />
     <state width="404" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577791749317" />
     <state width="431" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577550122612" />
-    <state width="465" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1580042168762" />
+    <state width="465" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1580049640192" />
     <state width="516" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1578022764338" />
     <state width="509" height="697" key="GridCell.Tab.0.right/0.27.2966.873@0.27.2966.873" timestamp="1577524538131" />
     <state x="266" y="134" width="824" height="533" key="IDE.errors.dialog" timestamp="1576062554583">
@@ -528,14 +534,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1579854526579" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579852741608">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580047068833">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578485264335" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1577926902521" />
     <state x="1763" y="240" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1577524772778" />
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1578963109967" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579852741608" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1580047068833" />
     <state x="261" y="89" width="834" height="624" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579854272245">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -579,6 +585,6 @@
     <SUITE FILE_PATH="coverage/HelloAdamPython$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1580035854708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP13Super" />
     <SUITE FILE_PATH="coverage/HelloAdamPython$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1580028953462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP10Getter&amp;Setter" />
     <SUITE FILE_PATH="coverage/HelloAdamPython$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1580018388289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP09StaticMethod&amp;ClassMethod" />
-    <SUITE FILE_PATH="coverage/HelloAdamPython$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1580016904170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP08Encapsulasi" />
+    <SUITE FILE_PATH="coverage/HelloAdamPython$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1580048441715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP15LatihanInheritance" />
   </component>
 </project>
